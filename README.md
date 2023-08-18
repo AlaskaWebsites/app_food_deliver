@@ -2,8 +2,8 @@
 
 Mini Deliver para estudo e aprofundamento em React e outras tecnologias.
 
-<img src="./src/assets/img/design.png" alt="Food-Deliver">
-<img src="./src/assets/img/design2.png" alt="Food-Deliver">
+<img src="./src/assets/design.png" alt="Food-Deliver">
+<img src="./src/assets/design2.png" alt="Food-Deliver">
 
 # Recursos
 
